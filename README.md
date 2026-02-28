@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Deshmukh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Problem+Solver;Turning+Data+into+Decisions" />
 </p>
 
 <p align="center">
