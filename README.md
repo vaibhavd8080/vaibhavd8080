@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Deshmukh</h1>
 
 <h3 align="center">
-  <span style="color:#00F7FF;">Data Analyst</span>
+  <span style="color:#00F7FF;">Aspiring Data Analyst | Turning Data into Decisions | Problem Solver</span>
 </h3>
 
 <p align="center">
