@@ -40,6 +40,10 @@
 
 ### 📊 Data & BI Tools
 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=powerbi" height="60" />
   &nbsp;&nbsp;&nbsp;
