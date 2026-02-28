@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Deshmukh</h1>
 
-<h3 align="center">
-  <span style="color:#00F7FF;">Aspiring Data Analyst | Turning Data into Decisions | Problem Solver</span>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst+%7C+Problem+Solver" />
+</p>
 
 <p align="center">
   Transforming raw data into meaningful insights 📊
