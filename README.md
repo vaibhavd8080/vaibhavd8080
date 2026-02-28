@@ -1,84 +1,18 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Deshmukh</h1>
+# 💫 About Me:
+🔭 Currently building real-world Data Analytics & Software Development projects  <br>📊 Passionate about Data Analysis, Business Intelligence & Problem Solving  <br>🤝 Open to collaborating on Data Science, SQL, and Full Stack projects  <br>🌱 Learning Machine Learning, Backend Development & System Design  <br>💬 Ask me about Python, SQL, Power BI, React, and Data Visualization  <br>⚡ Fun fact: I love simplifying complex data into clear, actionable insights
 
-<h3 align="center">
-  <span style="color:#00F7FF;">Data Analyst</span>
-</h3>
 
-<p align="center">
-  Turning data into decisions 🚀
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhav_.deshmukh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-deshmukh-211433290/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Vaibhav35006471) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavd8080@gmail.com) 
 
----
-
-## 👨‍💻 About Me
-
-- 📊 Building real-world Data Analytics projects  
-- 🧠 Passionate about solving business problems using data  
-- 🛠 Strong foundation in Programming & Backend fundamentals  
-- 📈 Currently learning Machine Learning & System Design  
-- ⚡ Focused on consistency and growth  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vaibhavd8080&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vaibhavd8080&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd8080&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=vaibhavd8080&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Tech Stack
-
-### 💻 Programming
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="60" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" height="60" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
-</p>
-
----
-
-### 📊 Data & BI Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi" height="60" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=excel" height="60" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas" height="60" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" height="60" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavd8080&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavd8080&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://github.com/vaibhavd8080/vaibhavd8080/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/vaibhavd8080">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vaibhav-deshmukh-211433290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Consistency + Skills + Projects = Growth 🚀</b>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
