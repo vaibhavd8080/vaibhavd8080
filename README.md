@@ -58,8 +58,6 @@
   <img src="https://img.shields.io/badge/HackerRank-Python_5★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HackerRank-SQL_5★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Power_BI-Dashboard_Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
