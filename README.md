@@ -1,105 +1,82 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Deshmukh</h1>
+# Hi, I'm Vaibhav Deshmukh 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Problem+Solver;Turning+Data+into+Decisions" />
+  <strong>Aspiring Data Analyst | Python · SQL · Excel · Power BI · Tableau</strong><br/>
+  Turning raw data into clear insights and practical business recommendations.
 </p>
 
 <p align="center">
-  Transforming raw data into meaningful insights 📊
+  <a href="https://www.linkedin.com/in/vaibhav-deshmukh-211433290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/vaibhavd8080"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 📊 Building real-world Data Analytics projects  
-- 🧠 Passionate about solving business problems using data  
-- 🛠 Strong foundation in SQL, Python & Data Modeling  
-- 📈 Currently learning Machine Learning & Advanced Analytics  
-- ⚡ Focused on consistency, growth & impact  
+I'm an aspiring Data Analyst building practical projects around data cleaning, exploratory analysis, business intelligence, and data visualization.
 
----
+- Analyse datasets to find trends, patterns, and business insights.
+- Build interactive dashboards and communicate findings clearly.
+- Practise end-to-end workflows, from raw data preparation to final reporting.
+- Continuously strengthen my skills through hands-on portfolio projects.
 
-## 🛠 Tech Stack
+## Skills & Tools
 
-### 💻 Programming & Databases
+| Area | Tools |
+|---|---|
+| Programming & Analysis | Python, Pandas, NumPy |
+| Databases | SQL, MySQL |
+| Spreadsheets | Microsoft Excel, Power Query |
+| Business Intelligence | Power BI, DAX |
+| Data Visualization | Tableau, Matplotlib, Seaborn |
+| Workflow | Jupyter Notebook, Git, GitHub |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" height="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
-</p>
+## Featured Projects
 
----
+### 1. Online Retail Sales Analysis — Python, Excel & Power BI
+An end-to-end retail analytics project covering data cleaning, validation, KPI development, and interactive reporting. The analysis includes sales performance, customer behaviour, product performance, and returns.
 
-### 📊 Data & BI Tools
+**[View project repository](https://github.com/vaibhavd8080/online-retail-sales-analysis)**
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
-</p>
+### 2. Amazon Prime Video Catalogue Dashboard — Tableau
+An interactive Tableau dashboard exploring content types, genres, countries, release trends, ratings, and catalogue composition. The project uses Python for data preparation.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi" height="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=excel" height="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas" height="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" height="60" />
-</p>
+**[View project repository](https://github.com/vaibhavd8080/prime-video-tableau-dashboard)** · **[Open live Tableau dashboard](https://public.tableau.com/app/profile/vaibhav.deshmukh3072/viz/Amazon_Prime_Video_DashboardTablaeu/Dashboard1?publish=yes)**
 
----
+### 3. Telco Customer Churn Analysis — Power BI
+An interactive dashboard analysing customer churn by contract type, tenure, internet service, and payment method to identify customer groups with higher churn.
 
-## 🏆 Achievements
+**[View project repository](https://github.com/vaibhavd8080/Telco-Customer-Churn-Analysis)**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-Python_5★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HackerRank-SQL_3★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</p>
+### 4. Netflix Content Analysis — Power BI
+A dashboard exploring the distribution of movies and TV shows, genres, countries, and release trends, with interactive filters and DAX measures.
+
+**[View project repository](https://github.com/vaibhavd8080/Netflix-PowerBI-Dashboard)**
+
+### 5. Amazon Prime Video — Exploratory Data Analysis
+A Python EDA project using Pandas and visualization libraries to examine content types, genres, production countries, release trends, and ratings.
+
+**[View project repository](https://github.com/vaibhavd8080/amazon-prime-video-python-eda)**
 
 ---
 
-## 📈 GitHub Analytics
+## Certifications & Practice
+
+- HackerRank: Python — 5-star
+- HackerRank: SQL — 3-star
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavd8080&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavd8080&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavd8080&show_icons=true&hide_border=true" alt="GitHub statistics"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavd8080&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## Let's Connect
 
-<p align="center">
-  <img src="https://github.com/vaibhavd8080/vaibhavd8080/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+- **LinkedIn:** [Vaibhav Deshmukh](https://www.linkedin.com/in/vaibhav-deshmukh-211433290/)
+- **GitHub:** [@vaibhavd8080](https://github.com/vaibhavd8080)
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/vaibhavd8080">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vaibhav-deshmukh-211433290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Consistency + Skills + Projects = Growth 🚀</b>
-</p>
