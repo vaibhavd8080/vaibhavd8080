@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Aspiring Data Analyst | Python · SQL · Excel · Power BI · Tableau</strong><br/>
-  Turning raw data into clear insights and practical business recommendations.
+  Building practical analysis projects and turning datasets into clear, decision-focused reporting.
 </p>
 
 <p align="center">
@@ -12,71 +12,74 @@
 
 ---
 
-## About Me
+## About
 
-I'm an aspiring Data Analyst building practical projects around data cleaning, exploratory analysis, business intelligence, and data visualization.
+I'm an aspiring Data Analyst building portfolio projects across data cleaning, exploratory analysis, spreadsheets, SQL practice, business intelligence and data visualisation.
 
-- Analyse datasets to find trends, patterns, and business insights.
-- Build interactive dashboards and communicate findings clearly.
-- Practise end-to-end workflows, from raw data preparation to final reporting.
-- Continuously strengthen my skills through hands-on portfolio projects.
+My project work includes preparing datasets, checking data quality, exploring business questions and presenting results through dashboards and documented analysis.
 
-## Skills & Tools
+## Skills and tools
 
-| Area | Tools |
+| Area | Tools and techniques |
 |---|---|
-| Programming & Analysis | Python, Pandas, NumPy |
-| Databases | SQL, MySQL |
-| Spreadsheets | Microsoft Excel, Power Query |
-| Business Intelligence | Power BI, DAX |
-| Data Visualization | Tableau, Matplotlib, Seaborn |
+| Programming and analysis | Python, Pandas, NumPy |
+| SQL | SQL, MySQL — query practice |
+| Spreadsheets | Microsoft Excel, Power Query, PivotTables |
+| Business intelligence | Power BI, DAX |
+| Visualisation | Tableau, Matplotlib, Seaborn |
 | Workflow | Jupyter Notebook, Git, GitHub |
 
-## Featured Projects
+## Featured projects
 
-### 1. Online Retail Sales Analysis — Python, Excel & Power BI
-An end-to-end retail analytics project covering data cleaning, validation, KPI development, and interactive reporting. The analysis includes sales performance, customer behaviour, product performance, and returns.
+### 1. Online Retail Sales Analysis — Python, Pandas and Power BI
 
-**[View project repository](https://github.com/vaibhavd8080/online-retail-sales-analysis)**
+Prepared transaction data and built a five-page dashboard covering executive KPIs, sales trends, customers, products and returns.
 
-### 2. Amazon Prime Video Catalogue Dashboard — Tableau
-An interactive Tableau dashboard exploring content types, genres, countries, release trends, ratings, and catalogue composition. The project uses Python for data preparation.
+[Project repository](https://github.com/vaibhavd8080/online-retail-sales-analysis)
 
-**[View project repository](https://github.com/vaibhavd8080/prime-video-tableau-dashboard)** · **[Open live Tableau dashboard](https://public.tableau.com/app/profile/vaibhav.deshmukh3072/viz/Amazon_Prime_Video_DashboardTablaeu/Dashboard1?publish=yes)**
+### 2. India Startup Funding Analysis — Excel
 
-### 3. Telco Customer Churn Analysis — Power BI
-An interactive dashboard analysing customer churn by contract type, tenure, internet service, and payment method to identify customer groups with higher churn.
+An Excel project analysing 3,044 Indian startup funding records, with a Power Query cleaning log, PivotTables, PivotCharts and an executive dashboard.
 
-**[View project repository](https://github.com/vaibhavd8080/Telco-Customer-Churn-Analysis)**
+[Project repository](https://github.com/vaibhavd8080/india-startup-funding-analysis)
 
-### 4. Netflix Content Analysis — Power BI
-A dashboard exploring the distribution of movies and TV shows, genres, countries, and release trends, with interactive filters and DAX measures.
+### 3. Amazon Prime Video Catalogue Dashboard — Tableau
 
-**[View project repository](https://github.com/vaibhavd8080/Netflix-PowerBI-Dashboard)**
+A Tableau dashboard supported by a Python data-cleaning workflow and a multi-table Excel data model.
 
-### 5. Amazon Prime Video — Exploratory Data Analysis
-A Python EDA project using Pandas and visualization libraries to examine content types, genres, production countries, release trends, and ratings.
+[Project repository](https://github.com/vaibhavd8080/prime-video-tableau-dashboard) · [Tableau Public dashboard](https://public.tableau.com/app/profile/vaibhav.deshmukh3072/viz/Amazon_Prime_Video_DashboardTablaeu/Dashboard1?publish=yes)
 
-**[View project repository](https://github.com/vaibhavd8080/amazon-prime-video-python-eda)**
+### 4. Telecom Customer Churn Analysis — Power BI
 
----
+Explores churn patterns across contract type, tenure, internet service and payment method.
 
-## Certifications & Practice
+[Project repository](https://github.com/vaibhavd8080/Telco-Customer-Churn-Analysis)
 
-- HackerRank: Python — 5-star
-- HackerRank: SQL — 3-star
+### 5. Netflix Content Analysis — Power BI
 
-## GitHub Activity
+A dashboard exploring catalogue composition, genres, countries and release-year trends.
+
+[Project repository](https://github.com/vaibhavd8080/Netflix-PowerBI-Dashboard)
+
+### 6. Amazon Prime Video — Python EDA
+
+An exploratory analysis of content types, genres, production countries, release trends and available rating fields.
+
+[Project repository](https://github.com/vaibhavd8080/amazon-prime-video-python-eda)
+
+## Learning and practice
+
+- HackerRank practice in Python and SQL.
+- Continued work on Excel, Power BI, Tableau and Python analytics projects.
+
+## GitHub activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhavd8080&show_icons=true&hide_border=true" alt="GitHub statistics"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavd8080&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
----
-
-## Let's Connect
+## Connect
 
 - **LinkedIn:** [Vaibhav Deshmukh](https://www.linkedin.com/in/vaibhav-deshmukh-211433290/)
 - **GitHub:** [@vaibhavd8080](https://github.com/vaibhavd8080)
-
